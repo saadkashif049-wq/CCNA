@@ -1,4 +1,12 @@
-# CCNA Day 3: IPv4 Addressing, Subnetting & Network Architecture
+# 🌐 CCNA 200-301: Learning Journey
+
+![CCNA Badge](https://img.shields.io/badge/Certification-CCNA%20200--301-blue?style=for-the-badge&logo=cisco)
+![Day](https://img.shields.io/badge/Progress-Day%2002-brightgreen?style=for-the-badge)
+
+## 📌 Day 02:IPv4 Addressing, Subnetting & Network Architecture
+
+
+ IPv4 Addressing, Subnetting & Network Architecture
 
 This repository contains comprehensive, highly structured study notes for **CCNA Day 3**. It serves as a professional reference guide covering IPv4 structures, classful addressing, public vs. private ranges, MAC and IP routing behaviors across network boundaries, subnet masking with slash (CIDR) notation, and practical binary calculations.
 
