@@ -3,7 +3,7 @@
 ![CCNA Badge](https://img.shields.io/badge/Certification-CCNA%20200--301-blue?style=for-the-badge&logo=cisco)
 ![Day](https://img.shields.io/badge/Progress-Day%2002-brightgreen?style=for-the-badge)
 
-## 📌 Day 02:IPv4 Addressing, Subnetting & Network Architecture
+## 📌 Day 03:IPv4 Addressing, Subnetting & Network Architecture
 
 
  IPv4 Addressing, Subnetting & Network Architecture
